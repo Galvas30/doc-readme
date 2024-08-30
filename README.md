@@ -46,5 +46,6 @@ Iremos apresentar menu como tabela de conteúdo, tecnologias, badges entre outro
 ## Finish him
 
 <p width="100%" align="center">
-    <img src="./image/logo.jpg" alt="logo" width="250px">
+    <img src="./image/tutubarao.avif" alt="logo" width="250px">
 </p>
+
